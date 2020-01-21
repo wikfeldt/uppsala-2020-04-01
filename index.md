@@ -5,30 +5,28 @@ include: workshop
 # location and address
 # you can also link to a map using e.g. openstreetmap, for example:
 # location: "<a https://www.openstreetmap.org/node/1771739362">Teknikringen 14, 11428 Stockholm</a>
-location: "Room X, Department of Y, University of Z"    
-address: "ADDRESS"
-city: CITY
+location: |
+    <a href="http://bit.ly/2FaSYX3"> Trippelrummet (E10:1309), Navet, BMC. </a>
+address: 
+city: Uppsala
 
 # date and time
 time: "9:00 - 17:00"    
-dates: "October 16-18, 2019"   
+dates: "April 1-3, 2020"   
 
 # Add link to registration form here and specify when the registration opens and whether it is closed
-registration_form: 
-registration_open_date: September 30, 2019
-registration_is_closed: true
+registration_form: "https://indico.neic.no/event/115/"
+registration_open_date: January 8
+registration_is_closed: false
 
 # names of instructors and helpers
 instructors: 
- - Instructor 1
- - Instructor 2
- - Instructor 3
+ - TBD
 helpers: 
- - Helper 1
- - Helper 2
+ - TBD
 
 # contact email address
-contact: instructor1@university.com
+contact: kthw@kth.se
 
 # normally no need to modify this
 goals:
