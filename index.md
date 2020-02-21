@@ -21,9 +21,14 @@ registration_is_closed: true
 
 # names of instructors and helpers
 instructors: 
- - TBD
+ - Diana Iusan
+ - Pavlin Mitev
+ - Radovan Bast
+ - Raphaela Heil
+ - Sabry Razick
+ - Thor Wikfeldt
 helpers: 
- - TBD
+ - Taha Ahmed
 
 # contact email address
 contact: kthw@kth.se
@@ -66,11 +71,11 @@ schedule:
         title: Welcome and practical information (TBD)
         url: https://github.com/coderefinery/workshop-intro/blob/master/README.md
       - time: 9:30 - 12:00
-        title: Introduction to version control - part 1/2 (TBD)
+        title: Introduction to version control - part 1/2 (Raphaela and Thor)
         url: https://coderefinery.github.io/git-intro/
     afternoon:
       - time: 13:00 - 15:00
-        title: Introduction to version control - part 2/2 (TBD)
+        title: Introduction to version control - part 2/2 (Raphaela and Thor)
         url: https://coderefinery.github.io/git-intro/
       - time: 15:30 - 17:00
         title: Social coding and open software (TBD)
@@ -88,12 +93,12 @@ schedule:
         title: Collaborative distributed version control 2/2 (TBD)
         url: https://coderefinery.github.io/git-collaborative/
       - time: 15:00-17:00
-        title: Reproducible research and FAIR data (TBD)
+        title: Reproducible research and FAIR data (Pavlin)
         url: https://coderefinery.github.io/reproducible-research/
   - date: Day 3
     morning:
       - time: 9:00 - 10:30
-        title: Documentation (TBD)
+        title: Documentation (Diana)
         url: https://coderefinery.github.io/documentation/
       - time: 11:00 - 12:00
         title: Automated testing part 1/2 (TBD)
@@ -103,7 +108,7 @@ schedule:
         title: Automated testing part 2/2 (TBD)
         url: https://coderefinery.github.io/testing/
       - time: 14:30 - 16:30
-        title: Jupyter (TBD)
+        title: Jupyter (Pavlin)
         url: https://coderefinery.github.io/jupyter/
       - time: 16:30 - 17:00
         title: Concluding remarks and where to go from here (TBD)
